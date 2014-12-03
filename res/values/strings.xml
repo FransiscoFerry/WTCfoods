@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WTCshops</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_coffe_time">Coffe Time</string>
+    <string name="title_activity_dine_nchat">Dine n Chat</string>
+    <string name="title_activity_tea_pei">Tea Pei</string>
+
+</resources>
